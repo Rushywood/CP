@@ -1,2 +1,0 @@
-# CP
-PClub secy task
