@@ -1,4 +1,4 @@
-#Hall 14 Mess
+# Hall 14 Mess
 
 IIT Kanpur inaugurates the new Hall 14 for its students and now there is a vacancy for the company to run the mess. Several companies are competing to get the contract at the same price. To run the mess most efficiently, the HEC is looking for a company which can provide the maximum number of workers at the same price. Each company has a different number of workers but one company named 'ShyamLal Catering' is too desperate to win the contract. So he tries to get some of the workers working for another company to work for him by paying them extra money.
 
